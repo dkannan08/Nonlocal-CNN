@@ -1,5 +1,5 @@
 # Deep Neural Networks and PIDE discretizations - Nonlocal CNNs inspired by PIDEs
--Dinesh Kannan, Universitaet Bonn
+-Bastian Bohn, Michael Griebel, Dinesh Kannan
 
 -ReadMe for the code.
 
