@@ -21,6 +21,7 @@ The tests for BDD100K might not work properly for earlier versions (Tensorflow 2
 - PIL pillow: `pip install Pillow`
 - torchvision (for generating Q-tips dataset) (torch is optional): `pip install torch torchvision` 
 
+Quick installation:
 For Google Colab users: `pip install -r requirements.txt`
 
 For non-Colab users: Remove all the irrelevant packages from requirements.txt file and run `pip install -r requirements.txt`
